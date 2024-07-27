@@ -1,5 +1,3 @@
-# custom-bootstrap-components
-A collection of HTML and CSS files that recreate common Bootstrap components with custom styles. 
 # Custom Bootstrap Components
 
 This project provides a collection of HTML and CSS files that recreate common Bootstrap components with custom styles. The goal is to offer a more modular and customizable approach by separating the structure (HTML) from the styling (CSS) for each component.
